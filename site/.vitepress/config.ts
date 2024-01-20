@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   base: '/',
   title: '3SB',
-  description: '3SB site.',
+  description: '3SB site',
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1' } ],
     ['meta', { name: 'theme-color', content: '#c12233' } ],

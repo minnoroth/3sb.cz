@@ -5,7 +5,7 @@ hero:
   name: Jsme 3SB!
   tagline: Ultimate Frisbee tým z Českých Budějovic.
   image:
-    src: '/budweiser-ultimate-lovers.png'
+    src: './budweiser-ultimate-lovers.png'
     alt: Budweiser Ultimate Lovers logo
   actions:
     - theme: brand

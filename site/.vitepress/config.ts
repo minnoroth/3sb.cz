@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  base: '/',
+  base: 'https://minnoroth.github.io/3sb.cz/',
   title: '3SB',
   description: '3SB site',
   head: [
@@ -16,9 +16,9 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-    logo: '/3SB_logo.png',
+    logo: './3SB-logo.png',
     footer: {
-      copyright: 'Copyright © 2017-present Michal Marek'
+      copyright: 'Copyright © 2024-present Michal Marek'
     },
     nav: [
       {

@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Kontakt
-      link: '/contact/'
+      link: '/contacts/'
     - theme: alt
       text: Něco o nás
       link: '/about/'

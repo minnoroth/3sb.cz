@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  base: 'https://minnoroth.github.io/3sb.cz/',
+  base: '/3sb.cz',
   title: '3SB',
   description: '3SB site',
   head: [
@@ -27,11 +27,11 @@ export default defineConfig({
       },
       {
         text: 'O nás',
-        link: '/about/'
+        link: 'about'
       },
       {
         text: 'Tréninky',
-        link: '/training/'
+        link: 'trainings'
       },
       {
         text: 'Blog',
@@ -39,7 +39,7 @@ export default defineConfig({
       },
       {
         text: 'Kontakty',
-        link: '/contact/'
+        link: 'contacts'
       },
     ],
     socialLinks: [

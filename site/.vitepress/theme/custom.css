@@ -34,7 +34,10 @@
   max-width: 1152px;
 }
 
-@media (max-width: 629px) {
+@media only screen and (max-width: 629px) {
+  .image {
+    display: none;
+  }
   .team-image {
     display: none;
   }
@@ -58,4 +61,34 @@
 
 .dark .index-team-image {
   filter: none
+}
+
+.container-map {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.map {
+  flex: 1;
+  margin: 0 20px;
+}
+
+@media (min-width: 769px) {
+  .text-map {
+    max-width: 50%;
+  }
+  .map {
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .container-map {
+    flex-direction: column;
+  }
+
+  .map {
+    margin: 20px 0;
+  }
 }

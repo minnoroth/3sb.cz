@@ -12,11 +12,11 @@ Bude pro tebe připraven program a seznámíš se s lidmi, kteří tě naučí h
 ## Letní sezóna
 
 <div class="container-map">
-  <div class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1129.710628003376!2d14.467802867789459!3d48.975863677358156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47734fd1a9b86963%3A0xd116ff3f9a9d70b2!2zU29rb2xza8O9IG9zdHJvdiwgMzcwIDAxIMSMZXNrw6kgQnVkxJtqb3ZpY2UgMQ!5e0!3m2!1scs!2scz!4v1706308192294!5m2!1scs!2scz" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
   <div class="text-map">
     <p>V úterý a čtvrtek trénujeme od 17:15 na stadioně na Sokolském ostrově. Najdeš nás tam od března až do listopadu. Trénink se většinou skládá z rozcvičky, atletické abecedy, pár cvičeních na herní dovednosti a pak si zahrajeme.</p>
+  </div>
+  <div class="map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1129.710628003376!2d14.467802867789459!3d48.975863677358156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47734fd1a9b86963%3A0xd116ff3f9a9d70b2!2zU29rb2xza8O9IG9zdHJvdiwgMzcwIDAxIMSMZXNrw6kgQnVkxJtqb3ZpY2UgMQ!5e0!3m2!1scs!2scz!4v1706308192294!5m2!1scs!2scz" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 </div>
 

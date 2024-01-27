@@ -8,7 +8,7 @@ sidebar: false
 
 Pokud by jsi chtěl přijít na trénink a podívat se, jak se hraje Ultimate Frisbee v jednom z nejlepších týmů České Republiky a Evropy, neboj se a napiš nám!
 Kontaktovat nás můžeš dvěma způsoby.
-* Skrze Instagramový, nebo Facebookový účet. Proklik najdeš v pravém horním rohu této stránky.
+* Skrze [Instagram](https://www.instagram.com/3sb_ultimate/), nebo [Facebook](https://www.facebook.com/3SBultimate).
 * Napíšeš e-mail na adresu: 3SB.ultimate@gmail.com
 
 # Pro média

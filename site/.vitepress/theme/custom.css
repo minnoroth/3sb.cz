@@ -38,7 +38,7 @@
   .image {
     display: none;
   }
-  .team-image {
+  .index-team-image-horizontal {
     display: none;
   }
 }
@@ -46,6 +46,9 @@
 @media (min-width: 630px) {
   .team-image {
     padding: 16px 48px;
+  }
+  .index-team-image-vertical {
+    display: none;
   }
 }
 
@@ -55,11 +58,19 @@
   }
 }
 
-.index-team-image {
+.index-team-image-horizontal {
   border-radius: 1%;
 }
 
-.dark .index-team-image {
+.dark .index-team-image-horizontal {
+  filter: none
+}
+
+.index-team-image-vertical {
+  border-radius: 1%;
+}
+
+.dark .index-team-image-vertical {
   filter: none
 }
 

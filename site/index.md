@@ -17,17 +17,18 @@ hero:
 features:
   - title: 🥏 Kam na trénink?
     link: '/trainings'
-    details: Pravidelně se scházíme každý úterý a čtvrtek a to jak přes léto, tak zimu! Na jaře, létě a podzim nás najdeš na atletickém stadionu na Sokolském ostrově a přes zimu přímo vedle v Sokolovně. Nejlepší bude, když nás kontaktuješ na některé z sociálních sítí a my se už o tebe postaráme.
+    details: Pravidelně se scházíme každé úterý a čtvrtek a to jak přes léto, tak zimu! Na jaře, létě a podzim nás najdeš na atletickém stadionu na Sokolském ostrově a přes zimu přímo vedle v Sokolovně. Prokliknutím skrz tento boxík se dozvíš více o naších trénincích.
   - title: ✉ Jak nás kontaktuješ?
-    link: 'https://www.instagram.com/3sb_ultimate/'
-    details: 'Z sociálních sítí používáme nejvíce Instagram a Faceboook, klikni do tohohle boxíku a dozvíš se víc.'
+    link: '/contacts'
+    details: Z sociálních sítí používáme nejvíce Instagram a Faceboook. Nejlepší bude, když nás kontaktuješ na některé z nich a my se už o tebe postaráme. Kdyby ti sociální sítě nevyhovovaly, máme také e-mailovou adresu. Klikni do tohoto boxíku a dozvíš se víc.
   - title: 🗒️ Krátce o nás
     link: '/about'
-    details: Jsme Ultimate Frisbee tým, který byl založen v Českých Budějovicích již roku 1993. Postupem času se stále rozrůstáme, jsme několika-násobnými mistry České Republiky v kategoriích Mixed, Ženy i Muži a naši junioři jsou neméně úspěšní. Mimo ligu českou hrajeme také evropskou ligu a naši hráči pravidelně reprezentují i v barvách reprezentačních.
+    details: Jsme Ultimate Frisbee tým, který byl založen v Českých Budějovicích již roku 1993. Postupem času se stále rozrůstáme, jsme několikanásobnými mistry České Republiky v kategoriích Mixed, Ženy i Muži a naši junioři jsou neméně úspěšní.
 ---
 
 <div class="team-image">
   <div class="custom-block">
-    <img class="index-team-image" src="/team.png" alt="fotka">
+    <img class="index-team-image-horizontal" src="/team_horizontal.jpeg" alt="Týmové foto - horizontální">
+    <img class="index-team-image-vertical" src="/team_vertical.jpeg" alt="Týmové foto - vertikální">
   </div>
 </div>

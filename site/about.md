@@ -6,7 +6,7 @@ sidebar: false
 
 # O nás
 
-Jsme Ultimate Frisbee tým z Českých Budějovic. Hrajeme už přes 30 let, a během poslední dekády jsme se vypracovali na jeden z nejúspěšnějších týmů v České Republice a zároveň v Evropě! Každoročně sbíráme medailová umístění jak z národních soutěží, tak se skvěle umisťujeme na finálovém turnaji evropských klubů.
+Jsme Ultimate Frisbee tým z Českých Budějovic. Hrajeme už přes 30 let, a během poslední dekády jsme se vypracovali na jeden z nejúspěšnějších týmů v České Republice a zároveň v Evropě! Každoročně sbíráme medailová umístění z národních soutěží a také se skvěle umisťujeme na finálovém turnaji evropských klubů.
 
 ## Ale co je hlavní?
 

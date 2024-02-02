@@ -17,13 +17,13 @@ hero:
 features:
   - title: 🥏 Kam na trénink?
     link: '/trainings'
-    details: Pravidelně se scházíme každé úterý a čtvrtek a to jak přes léto, tak zimu! Na jaře, létě a podzim nás najdeš na atletickém stadionu na Sokolském ostrově a přes zimu přímo vedle v Sokolovně. Prokliknutím skrz tento boxík se dozvíš více o naších trénincích.
+    details: Pravidelně se scházíme každé úterý a čtvrtek. Na jaře, v létě a na podzim nás najdeš na atletickém stadionu na Sokolském ostrově a přes zimu hned vedle v Sokolovně. Klikni pro více info!
   - title: ✉ Jak nás kontaktuješ?
     link: '/contacts'
-    details: Z sociálních sítí používáme nejvíce Instagram a Faceboook. Nejlepší bude, když nás kontaktuješ na některé z nich a my se už o tebe postaráme. Kdyby ti sociální sítě nevyhovovaly, máme také e-mailovou adresu. Klikni do tohoto boxíku a dozvíš se víc.
+    details: Používáme hlavně Instagram a Faceboook. Tak nám napiš tam a my se už o tebe postaráme. Pokud ti sociální sítě nevyhovují, máme samozřejmě také e-mailovou adresu. Klikni a dozvíš a se víc.
   - title: 🗒️ Krátce o nás
     link: '/about'
-    details: Jsme Ultimate Frisbee tým, který byl založen v Českých Budějovicích již roku 1993. Postupem času se stále rozrůstáme, jsme několikanásobnými mistry České Republiky v kategoriích Mixed, Ženy i Muži a naši junioři jsou neméně úspěšní.
+    details: Jsme Ultimate Frisbee tým, který byl založen v Českých Budějovicích už v roce 1993. Postupem času se stále rozrůstáme, jsme několikanásobnými mistry České republiky v kategoriích Mixed, Ženy i Muži a úspěchy sbírají i naši junioři.
 ---
 
 <div class="team-image">

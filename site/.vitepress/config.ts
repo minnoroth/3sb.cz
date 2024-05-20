@@ -34,6 +34,10 @@ export default defineConfig({
         link: 'trainings'
       },
       {
+        text: 'Jihočeská univerzita',
+        link: 'jcu'
+      },
+      {
         text: 'Blog',
         link: '/blog/'
       },

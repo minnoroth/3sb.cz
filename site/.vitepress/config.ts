@@ -38,6 +38,10 @@ export default defineConfig({
         link: 'jcu'
       },
       {
+        text: 'Sponzoři',
+        link: 'sponsors'
+      },
+      {
         text: 'Blog',
         link: '/blog/'
       },
